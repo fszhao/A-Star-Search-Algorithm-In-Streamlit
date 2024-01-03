@@ -15,13 +15,7 @@ Welcome to the A* Search Algorithm Visualization App! This Streamlit application
     $ conda activate astarstreamlit
     ```
 
-3. Set up Jupyter notebook to use this environment:
-
-    ```bash
-    python -m ipykernel install --user --name astarstreamlit --display-name "Python (astarstreamlit)"
-    ```
-
-4. Open a terminal and run:
+3. Open a terminal and run:
 
     ```bash
     $ streamlit run app.py
@@ -36,7 +30,7 @@ The app features a bunch of examples of what you can do with Streamlit. Jump to 
 - Run A Algorithm:* Click the "Run A* Algorithm" button to visualize how the A* algorithm explores the grid, finding the shortest path from the start to the goal.
 
 
-<img src="https://github.com/fszhao/A-Star-Search-Algorithm-In-Streamlit/blob/main/demo.gif" width=900 alt="Demo"></img>
+<img src="https://github.com/fszhao/A-Star-Search-Algorithm-In-Streamlit/blob/main/demo.gif" width=1200 alt="Demo"></img>
 
 
 ## Resources
