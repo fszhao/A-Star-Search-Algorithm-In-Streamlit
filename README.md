@@ -36,7 +36,7 @@ The app features a bunch of examples of what you can do with Streamlit. Jump to 
 - Run A Algorithm:* Click the "Run A* Algorithm" button to visualize how the A* algorithm explores the grid, finding the shortest path from the start to the goal.
 
 
-<img src="https://github.com/fszhao/A-Star-Search-Algorithm-In-Streamlit/blob/main/demo.gif" width=600 alt="Demo"></img>
+<img src="https://github.com/fszhao/A-Star-Search-Algorithm-In-Streamlit/blob/main/demo.gif" width=900 alt="Demo"></img>
 
 
 ## Resources
