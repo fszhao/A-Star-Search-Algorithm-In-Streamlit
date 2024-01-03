@@ -200,8 +200,8 @@ def pretty_print_path(world: List[List[str]], path: List[Tuple[int, int]], start
 #App Parameters
 st.title("A* Search Algorithm")
 #st.set_page_config(layout="wide")
-st.subheader("EN.605.645 Artificial Intelligence")
-st.write("Frank Zhao")
+st.subheader("Frank Zhao")
+st.write("A* search a modification of Dijkstra’s Algorithm that is optimized for a single destination. Dijkstra’s Algorithm can find paths to all locations; A* finds paths to one location, or the closest of several locations. It prioritizes paths that seem to be leading closer to a goal.")
 
 ## #start/goal inputs
 # st.header("Start")
